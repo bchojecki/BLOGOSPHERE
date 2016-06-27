@@ -203,7 +203,6 @@ h3 {
     transition: all 0.5s ease;
     max-width: 0;
     overflow: hidden;
-
 }
 #burgernavy.aa {
     max-width: 100%;
@@ -226,7 +225,6 @@ h3 {
     display: block;
     margin-top: 40px;
     text-align: center;
-    border: 1px solid right;
 }
 #wrapper {
     position: relative;
